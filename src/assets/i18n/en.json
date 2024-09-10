@@ -1,0 +1,15 @@
+{
+    "Welcome" : "Eziiiiiik" ,
+    "Home" :"Home" ,
+    "Cart" :"Cart" ,
+    "Category" :"Category" ,
+    "Brands" :"Brands" ,
+    "Products" :"Products" ,
+    "SignIn" : "SignIn" ,
+    "SignUp" : "SignUp",
+    "Logout" : "Logout",
+    "addToCart" : "Add To Cart",
+    "wishlist":"wishlist",
+    "orders":"orders"
+    
+}
